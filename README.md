@@ -1,1 +1,1 @@
-#  Rock Paper Scissors using tkinter
+#  My Simple Projects
